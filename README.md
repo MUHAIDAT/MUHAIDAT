@@ -11,8 +11,15 @@
   🌱 Currently learning Algorithms & Data Structures
 </p>
 🌐 Socials
-- 📧 Email: zaidmuhaidat@outlook.com  
-- 💼 LinkedIn: www.linkedin.com/in/zaid-muhaidat
+<p align="center">
+  <a href="mailto:zaidmuhaidat@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zaid-muhaidat">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+</p>
 
 
 ---
