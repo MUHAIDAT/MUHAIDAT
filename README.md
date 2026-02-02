@@ -10,14 +10,14 @@
   🧠 Interested in C++ & Problem Solving <br/>
   🌱 Currently learning Algorithms & Data Structures
 </p>
-### 🌐 Socials
+🌐 Socials
 - 📧 Email: zaidmuhaidat@outlook.com  
 - 💼 LinkedIn: www.linkedin.com/in/zaid-muhaidat
 
 
 ---
 
-### 💻 Tech Stack
+💻 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,git,github,html,css,js,linux" />
 </p>
