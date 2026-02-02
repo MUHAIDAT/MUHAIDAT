@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @MUHAIDAT
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9015a9b7-bbdc-4588-aee8-299d5ca6008c" width="450" />
+</p>
 
-<!---
-MUHAIDAT/MUHAIDAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Hi 👋, I'm Zaid Muhaidat</h2>
+
+<p align="center">
+  💻 Computer Science Student <br/>
+  🧠 Interested in C++ & Problem Solving <br/>
+  🌱 Currently learning Algorithms & Data Structures
+</p>
