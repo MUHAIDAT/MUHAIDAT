@@ -11,8 +11,9 @@
   🌱 Currently learning Algorithms & Data Structures
 </p>
 ### 🌐 Socials
-- 📧 Email: zaid.muhaidat@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/zaid-muhaidat/
+- 📧 Email: zaidmuhaidat@outlook.com  
+- 💼 LinkedIn: www.linkedin.com/in/zaid-muhaidat
+
 
 ---
 
