@@ -29,16 +29,7 @@
 - 🌱 Learning **Data Structures, Algorithms, and OOP**
 - 👯 Open to collaborate on **C++ & Open Source Projects**
 - 🤔 Interested in **Advanced Problem Solving**
-- 💬 Ask me about **C++, Algorithms, and Programming Fundamentals**
-- ⚡ Fun fact: *Strong fundamentals beat fancy tools every time.*
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github" />
-</p>
-
+  
 ---
 
 ## 📊 GitHub Stats
@@ -48,13 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAIDAT&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUHAIDAT&theme=dark&column=6" />
 </p>
 
 ---
